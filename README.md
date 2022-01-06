@@ -14,4 +14,4 @@ This week's activity was to build a timed coding quiz with multiple-choice quest
    
 
 
-Access deployed application here- https://fauziashafi.github.io/landing-page/
+Access deployed application here- https://fauziashafi.github.io/CodeQuiz/
